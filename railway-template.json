@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/vergissberlin/railway/main/docs/railway-template.schema.json",
+  "schemaVersion": 1,
+  "project": "railwayapp-listmonk-mcp",
+  "repo": "vergissberlin/railwayapp-listmonk-mcp",
+  "displayName": "Listmonk + MCP",
+  "publishedCode": "listmonk-mcp",
+  "image": "https://raw.githubusercontent.com/vergissberlin/railwayapp-listmonk-mcp/main/logo-listmonk.svg",
+  "description": "Self-hosted listmonk newsletters with Postgres and an MCP server for AI",
+  "workspaceAutomation": false,
+  "logoFile": "logo-listmonk.svg"
+}

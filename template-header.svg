@@ -1,0 +1,17 @@
+<svg width="1280" height="270" viewBox="0 0 1280 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Listmonk + MCP header banner</title>
+  <desc id="desc">Flat gradient banner for the Listmonk + MCP Railway template with the listmonk logo.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1021"/>
+      <stop offset="0.55" stop-color="#0F2A5C"/>
+      <stop offset="1" stop-color="#0055D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="270" rx="26" fill="url(#bg)"/>
+  <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJsaXN0bW9uayI+CiAgPHJlY3Qgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHJ4PSI1NiIgZmlsbD0iI0ZGRkZGRiIvPgogIDxjaXJjbGUgY3g9IjEyOCIgY3k9IjEyOCIgcj0iNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwNTVENCIgc3Ryb2tlLXdpZHRoPSIzOCIvPgo8L3N2Zz4K" x="84" y="80" width="112" height="112" preserveAspectRatio="xMidYMid meet"/>
+  <text x="258" y="122" fill="#FFFFFF" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="52" font-weight="800">Listmonk + MCP</text>
+  <text x="258" y="168" fill="#B6C2FF" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="28" font-weight="500">Newsletters your AI agents can run · Railway Template</text>
+  <rect x="258" y="188" width="286" height="44" rx="22" fill="#1C285D" stroke="#67E8F9" stroke-opacity="0.6"/>
+  <text x="284" y="216" fill="#CFFAFE" font-family="Inter,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="19" font-weight="700">Deploy on Railway</text>
+</svg>
