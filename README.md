@@ -4,7 +4,7 @@
 
 [listmonk](https://listmonk.app) is a fast, self-hosted newsletter and mailing list manager. This template deploys listmonk together with PostgreSQL and the [listmonk MCP server](https://github.com/kieksme/mcp-listmonk), so AI agents such as Claude, Cursor or ChatGPT can manage lists, subscribers, campaigns and templates over the Model Context Protocol. Everything is wired up on first boot: no setup wizard, no manual API user, no copy-pasting tokens.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/9JdFCh?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/listmonk-mcp?referralCode=2_sIT9&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## 🏗️ Architecture
 
